@@ -1,1 +1,3 @@
 # DirectML-LLM
+
+Inference only
